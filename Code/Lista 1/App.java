@@ -2,7 +2,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Questoes {
+public class App {
     public static void main(String[] args) throws Exception {
 
         // Definindo a localidade, para permitir que o usuário digite "." em entradas de texto
